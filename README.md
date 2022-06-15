@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <a href="https://github.com/raingrain">
+    <img src="https://github-profile-trophy.vercel.app/?username=raingrain&theme=onedark" alt="raingrain's Stats" >
+  </a>
+</p>
+
+<p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raingrain&layout=compact&card_width=445" alt="raingrain's languages" >
   </a>
