@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/raingrain">
+    <img src="https://github-readme-stats.vercel.app/api?username=raingrain&show_icons=true&count_private=true&include_all_commits&theme=radical" alt="raingrain's Stats" >
+  </a>
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raingrain&repo=Data-Structure-and-Algorithm&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raingrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
