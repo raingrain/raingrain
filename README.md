@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 - 🚀 use daily:
-  <img src="https://img.shields.io/badge/-HTML-343837?style=plastic&logo=HTML5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-HTML-C7B198?style=plastic&logo=HTML5" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS-AFD0C1?style=plastic&logo=CSS3" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-7684AA?style=plastic&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-4E5E7E?style=plastic&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Angular-3B2E5A?style=plastic&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/-Angular-343837?style=plastic&logo=angular" alt="Angular">
   <img src="https://img.shields.io/badge/-Vue-164773?style=plastic&logo=vue.js" alt="Vue">
   <img src="https://img.shields.io/badge/-React-1E5959?style=plastic&logo=react" alt="React">
   <br>
