@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-- 🚀 use daily:
+  - 🚀 <b>Daily language and framework</b>:
   <img src="https://img.shields.io/badge/-HTML-C7B198?style=plastic&logo=HTML5" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS-AFD0C1?style=plastic&logo=CSS3" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-7684AA?style=plastic&logo=javascript" alt="JavaScript">
