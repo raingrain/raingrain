@@ -37,11 +37,18 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raingrain&layout=compact&card_width=445" alt="raingrain's languages" >
+  </a>
+</p>
+
+<p align="center">
   - 🚀 <b>Daily language and framework</b>:
   <img src="https://img.shields.io/badge/-HTML-C7B198?style=plastic&logo=HTML5" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS-AFD0C1?style=plastic&logo=CSS3" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-7684AA?style=plastic&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-4E5E7E?style=plastic&logo=typescript" alt="TypeScript">
+  <br>
   <img src="https://img.shields.io/badge/-Angular-343837?style=plastic&logo=angular" alt="Angular">
   <img src="https://img.shields.io/badge/-Vue-164773?style=plastic&logo=vue.js" alt="Vue">
   <img src="https://img.shields.io/badge/-React-1E5959?style=plastic&logo=react" alt="React">
@@ -49,12 +56,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Python-B1B8B0?style=plastic&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-Java-585925?style=plastic&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/-Csharp-D9D1C7?style=plastic&logo=Csharp" alt="Csharp">
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raingrain&layout=compact&card_width=445" alt="raingrain's languages" >
-  </a>
 </p>
 
 <p align="center">
