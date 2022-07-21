@@ -9,7 +9,7 @@
 
 <div>
   - 🔭 I’m currently studying at <a href="https://www.ecnu.edu.cn/">ECNU</a>, majoring in <b>geography🌏</b>.<br>
-  - 🌱 I‘m working hard to become a full stack engineer in the field of <b>GIS</b> and <b>CS</b>.💪💪💪<br>
+  - 🌱 I‘m working hard to become a full stack developer in the field of <b>GIS</b> and <b>CS</b>.💪💪💪<br>
   - 💬 You can contact me through the <b>email📧</b> in the personal information on the left of the page.
 </div>
   
